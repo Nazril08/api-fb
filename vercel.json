@@ -3,5 +3,8 @@
     "api/facebook.js": {
       "maxDuration": 30
     }
+  },
+  "env": {
+    "AWS_LAMBDA_JS_RUNTIME": "nodejs20.x"
   }
 } 
