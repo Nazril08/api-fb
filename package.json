@@ -1,0 +1,16 @@
+{
+  "name": "facebook-downloader-api",
+  "version": "1.0.0",
+  "description": "A public API to download Facebook videos.",
+  "main": "api/facebook.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@sparticuz/chromium": "^123.0.1",
+    "puppeteer-core": "^22.9.0"
+  },
+  "devDependencies": {
+    "vercel": "^34.2.0"
+  }
+} 
